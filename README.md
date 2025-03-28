@@ -95,4 +95,3 @@ Suggested Citation Format:
 ## Acknowledgements
 - Open-Meteo Air Quality API
 - Computational Resources Support
-```
