@@ -82,7 +82,7 @@ Suggested Citation Format:
 ```
 @software{AERONET2025,
   title={AERONET: Air Quality Index Prediction using Graph Neural Networks},
-  author={[Your Name]},
+  author={[Maram Shiva Vaishnavi]},
   year={2025}
 }
 ```
